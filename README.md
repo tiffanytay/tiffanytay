@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring where technology, analytics and purpose intersect.
 - 🌱 I’m currently learning how to leverage local LLMs to improve m life.
 - 💞️ I’m looking to collaborate on end-to-end projects that solve problems.
-- 📫 How to reach me: by email.
+- 📫 How to reach me: [Schedule 30 min with Tiffany](https://calendly.com/tiffany-tay-fwjn/30min).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love bread more than bread loves me. Same goes for my dog.
 
