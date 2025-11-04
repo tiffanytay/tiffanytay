@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffanytay
 - 👀 I’m interested in exploring where technology, analytics and purpose intersect.
-- 🌱 I’m currently learning how to leverage local LLMs to improve m life.
+- 🌱 I’m currently learning how to leverage local LLMs to improve life.
 - 💞️ I’m looking to collaborate on end-to-end projects that solve problems.
 - 📫 How to reach me: [Schedule 30 min with Tiffany](https://calendly.com/tiffany-tay-fwjn/30min).
 - 😄 Pronouns: she/her
